@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="biglogo.png" alt="PLANIT Logo" width="200">
+  <img src="biglogo.png" alt="PLANIT Logo" width="400">
 </p>
 
 # PLANIT - 2D Floor Planner
