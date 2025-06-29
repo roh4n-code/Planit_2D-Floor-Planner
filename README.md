@@ -53,8 +53,7 @@ This has been completed in fulfillment of the requirements for the CS F213 Objec
 
 ## Assets
 
-- `logo.png`, `logotxt.png`, `biglogo.png` – Branding and UI images  
-- `directions.png` – Reference image or guide  
+- `logo.png`, `logotxt.png`, `biglogo.png` – Branding and UI images   
 
 ---
 
