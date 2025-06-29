@@ -83,9 +83,8 @@ Requires Java 8 or higher.
 ## Future Work
 
 - Export to image or PDF  
-- Snap-to-grid feature  
-- Furniture rotation/scaling  
 - Improved catalog UI  
-- Multi-floor support  
+- Multi-floor support
+- 3D Visualisation 
 
 ---
