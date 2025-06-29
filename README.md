@@ -1,3 +1,6 @@
+
+![PLANIT Logo](logo.png)
+
 # PLANIT - 2D Floor Planner
 
 PLANIT is a Java-based 2D floor planning tool built with Swing. It allows users to visually design room layouts, manage furniture and fixtures, and save/load floor plan projects. The project is structured to be simple and modular, making it easy to extend or integrate.
